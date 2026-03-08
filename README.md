@@ -295,7 +295,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-The API is now running at **http://localhost:8000**. Visit http://localhost:8000/docs for the interactive Swagger UI.
+The API is now running at **https://agentic-flow.onrender.com/**. Visit https://agentic-flow.onrender.com/docs for the interactive Swagger UI.
 
 ### 3. Start the frontend
 
@@ -305,7 +305,7 @@ npm install
 npm run dev
 ```
 
-The app is now running at **http://localhost:3000**.
+The app is now running at **https://neruovn-alpha.vercel.app/**.
 
 ### Environment Variables (optional)
 
@@ -323,7 +323,7 @@ Want to see Neurovn in action? Here's a step-by-step guide:
 
 ### Step 1: Create a Workflow
 
-1. Open http://localhost:3000 and click **Launch Canvas**
+1. Open https://neruovn-alpha.vercel.app/ and click **Launch Canvas**
 2. Drag a **Start** node onto the canvas
 3. Drag two **Agent** nodes — configure one as "Research Agent" (GPT-4o) and one as "Summarizer" (Claude 3.5 Sonnet)
 4. Drag a **Tool** node — this represents a web search tool call
