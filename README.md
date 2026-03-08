@@ -101,7 +101,7 @@ The canvas supports **group boxes** for visual organization — in the screensho
 Hit **Run Estimate** and a comprehensive dashboard slides in from the right. No loading spinners. No API calls to external services. Pure computation, under 10ms.
 
 <p align="center">
-  <img src="images/estimate-panel.png" alt="Workflow estimation dashboard showing token usage, cost, and latency breakdown" width="100%" />
+  <img src="images/estiamte-dashboard-full.png" alt="Workflow estimation dashboard showing token usage, cost, and latency breakdown" width="100%" />
 </p>
 
 **The dashboard gives you:**
