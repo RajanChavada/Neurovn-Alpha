@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://neurovn.com"><img src="https://img.shields.io/badge/Live_Demo-neurovn.com-black?style=for-the-badge" alt="Live Demo" /></a>&nbsp;
+  <a href="[https://neurovn.com](https://neurovn-alpha.vercel.app/)"><img src="https://img.shields.io/badge/Live_Demo-neurovn.com-black?style=for-the-badge" alt="Live Demo" /></a>&nbsp;
   <a href="https://github.com/RajanChavada/neurovn"><img src="https://img.shields.io/github/stars/RajanChavada/neurovn?style=for-the-badge&color=orange" alt="Stars" /></a>&nbsp;
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /></a>
 </p>
